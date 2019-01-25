@@ -1,0 +1,3 @@
+[submodule "lib/ClassyDataAnalysis"]
+	path = lib/ClassyDataAnalysis
+	url = https://github.com/limblab/ClassyDataAnalysis.git
